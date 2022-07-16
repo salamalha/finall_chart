@@ -1,5 +1,9 @@
 pandas
-Pillow
-plotly
-prophet
+numpy
 streamlit
+altair
+plotly
+matplotlib
+Flask
+request
+render_template
