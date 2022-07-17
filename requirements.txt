@@ -5,5 +5,3 @@ altair
 plotly
 matplotlib
 Flask
-request
-render_template
